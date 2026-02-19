@@ -25,10 +25,10 @@ I'm a passionate **Software Engineer** and **Solution Specialist** with expertis
 #### Backend & Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-2.0-4285F4?style=for-the-badge&logo=auth0&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=auth0&logoColor=white)
 
 #### AI & Tools
-![Claude](https://img.shields.io/badge/Claude-AI-8A5CFF?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-8A5CFF?style=for-the-badge&logo=anthropic&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI_Tools-Development-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
